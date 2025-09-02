@@ -31,15 +31,6 @@ This repository contains solutions for a series of **computer vision tasks** as 
 
 ---
 
-## 📂 Folder Structure
-- `task1_crop_shapes/` – Results for Task 1 (cropped images, drawn shapes, color extraction)  
-- `task2_orange_filtered/` – Results for Task 2 (orange regions and filtered video frames)  
-- `task3_detect_objects/` – Results for Task 3 Part A (eyes and Ballon d’Or detection)  
-- `task3_card_contours/` – Results for Task 3 Part B (masked card contours)  
-- `task3_shapes_detected/` – Results for Task 3 Part C (shape detection and labeling)  
-
----
-
 ## 📝 Notes
 - All images and videos used in the tasks are sourced from the provided **Torpedo training assets**.  
 - Each task saves processed results in separate folders for easy review.  
