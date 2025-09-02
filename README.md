@@ -7,6 +7,7 @@ This repository contains solutions for a series of **computer vision tasks** as 
 ## 🖼️ Task 1: Image Manipulation
 - **Part A:** ✂️ Crop and save selected regions from an image. Demonstrates basic image selection and saving.  
 - **Part B:** 🔵⬛ Draw shapes on images. Rectangle and Circle were chosen to demonstrate shape drawing and overlaying.  
+- **Part C:** 🎨 Extract color by clicking on a pixel. The pixel you click on is used as the **lower bound**, and the color range is extended by 20 pixels for the **upper bound**. This allows interactive color extraction from an image.  
 
 ---
 
@@ -30,7 +31,14 @@ This repository contains solutions for a series of **computer vision tasks** as 
 
 ---
 
+## 📂 Folder Structure
+- `task1_crop_shapes/` – Results for Task 1 (cropped images, drawn shapes, color extraction)  
+- `task2_orange_filtered/` – Results for Task 2 (orange regions and filtered video frames)  
+- `task3_detect_objects/` – Results for Task 3 Part A (eyes and Ballon d’Or detection)  
+- `task3_card_contours/` – Results for Task 3 Part B (masked card contours)  
+- `task3_shapes_detected/` – Results for Task 3 Part C (shape detection and labeling)  
 
+---
 
 ## 📝 Notes
 - All images and videos used in the tasks are sourced from the provided **Torpedo training assets**.  
